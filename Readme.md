@@ -35,7 +35,7 @@ ex: when remove symlink directory, older version's windows delete all files (doe
 ### Restrict:
 
 * You must create `c:\opt` directory first.
-* Tools store directory must contains ':\opt\_files\'.
+* Tools store directory must contains `:\opt\_files\`.
 * Create symlink using absolute path ( even if tools stored directory is in C-drive ).
 * Create directory symlink only.
 
